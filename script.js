@@ -30,7 +30,7 @@ navLinks.forEach(link => {
 
 // ===== TYPING EFFECT =====
 const dynamicTitle = document.querySelector('.hero-title-dynamic');
-const titles = ['Mobil Uygulama Geliştirici', 'Full Stack Developer', 'Problem Solver'];
+const titles = ['Mobil Uygulama Geliştirici', 'Full Stack Developer',];
 let titleIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
